@@ -324,7 +324,7 @@ body {
 
 
 # Result :
-## Therefore, functionalities of CSS media queries are clearly demonstrated using examples for each type.
+## Therefore, CSS media queries are executed successfully for each type.
 
 ## Developed By : K.Madhava Reddy
 ## Register Number : 212223240064
